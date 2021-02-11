@@ -1,7 +1,7 @@
 # Priyanka
 ## Educational details;
 **Branch,Year:** CST(Computer Science and Technology),1st Year
-**Collage name:** Sri Vsavi Engeneering College
+**College name:** Sri Vsavi Engeneering College
 ## skills:
  - c programing
  - Version Control System (Git & GitHub)
